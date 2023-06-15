@@ -1,3 +1,3 @@
-Name: SONAM VERMA
+Sonam Verma
 
-SID: 8924807
+Assignment 2 and Lab 4 PyCharm Python 
